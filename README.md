@@ -1,3 +1,3 @@
-My first GO Projects
+My First GO.LANG Projects
 
 - To-Do App
