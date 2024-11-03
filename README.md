@@ -1,3 +1,1 @@
-My First GO.LANG Projects
-
-- To-Do App
+My First Golang Project
